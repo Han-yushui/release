@@ -1,14 +1,13 @@
-package org.example.mystarter;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MystarterApplication {
-    
-    // 添加注释
+public class DemoApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(MystarterApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
     }
 
 }
