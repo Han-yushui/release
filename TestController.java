@@ -13,7 +13,7 @@ public class TestController {
     @Autowired
     MyStarterTemplate myStarterTemplate;
 
-    @RequestMapping("/wellcome1")
+    @RequestMapping("/come")
     public void hello() {
         short s = 1;
         s= (short) (s+1);
