@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MystarterApplication {
     
-    // 添加注释
     public static void main(String[] args) {
         SpringApplication.run(MystarterApplication.class, args);
     }
