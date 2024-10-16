@@ -13,4 +13,6 @@ public class Person {
     int height;
     int weight;
     String birth;
+    // 这是A分支的追加属性
+    String amount;
 }
